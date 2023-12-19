@@ -4,7 +4,7 @@ Thanks for checking out our repository. As you can see in the root directory, 6 
 
 This is the framework for our study:
 
-
+![My Image](Framework.jpg)
 
 Each file's purpose and products are listed below:
 
